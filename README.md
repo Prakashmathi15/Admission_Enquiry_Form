@@ -39,8 +39,7 @@ No CSS or JavaScript is to be included. Focus on structure and accessibility.
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
     <title>Admission Enquiry Form</title>
     <h1 align="center" style="color:rgb(243, 43, 7)">Admission Enquiry</h1>
 </head>
