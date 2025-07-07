@@ -41,7 +41,7 @@ No CSS or JavaScript is to be included. Focus on structure and accessibility.
 <head>
   
     <title>Admission Enquiry Form</title>
-    <h1 align="center" style="color:rgb(243, 43, 7)">Admission Enquiry</h1>
+    <h1 align="center" >Admission Enquiry</h1>
 </head>
 <body>
 <form method="post">
