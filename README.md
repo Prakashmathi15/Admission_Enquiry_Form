@@ -1,5 +1,5 @@
 # Admission_Enquiry_Form
-## Date:
+## Date:07-07-2025
 
 ## Objective:
 To design a simple Admission Enquiry Form using basic HTML that collects student details such as name, contact, program of interest, and a message for further communication.
@@ -79,7 +79,8 @@ No CSS or JavaScript is to be included. Focus on structure and accessibility.
 </html>
 ```
 ## Output:
-<img width="951" alt="image" src="https://github.com/user-attachments/assets/4b868f62-6a12-4508-8f46-fd416f987c01" />
+<img width="952" alt="image" src="https://github.com/user-attachments/assets/217c474c-7b12-47b9-b230-01c934231c11" />
+
 
 
 ## Result:
