@@ -67,6 +67,9 @@ No CSS or JavaScript is to be included. Focus on structure and accessibility.
         <option value="Certificate">Lateral</option>
         </select>
         <br><br>
+    <label for="message">Message</label>
+    <textarea name="message" rows="4" cols="50" placeholder="Enter your message" required></textarea>
+    <br><br>
         <button type="submit">Submit</button>
         <button  type="reset">Reset</button>
     
