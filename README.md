@@ -62,8 +62,8 @@ No CSS or JavaScript is to be included. Focus on structure and accessibility.
         <option value="" disabled selected>Select a program</option>
         <option value="Bachelors">B.E or B.Tech</option>
         <option value="Masters">M.E</option>
-        <option value="Diploma">MBA</option>
-        <option value="Certificate">Lateral</option>
+        <option value="Master">MBA</option>
+        <option value="Lateral">Lateral</option>
         </select>
         <br><br>
     <label for="message">Message</label>
