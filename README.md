@@ -80,7 +80,8 @@ No CSS or JavaScript is to be included. Focus on structure and accessibility.
 </html>
 ```
 ## Output:
-<img width="956" alt="image" src="https://github.com/user-attachments/assets/4f15a79e-9763-4042-ba66-bad2208e193f" />
+<img width="951" alt="image" src="https://github.com/user-attachments/assets/4b868f62-6a12-4508-8f46-fd416f987c01" />
+
 
 ## Result:
 An Admission Enquiry Form using HTML that collects student details and message for institutional follow-up is successfully created using semantic and readable HTML.
