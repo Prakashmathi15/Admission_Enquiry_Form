@@ -35,7 +35,47 @@ Use submit and reset at the bottom of the form.
 No CSS or JavaScript is to be included. Focus on structure and accessibility.
 
 ## HTML Code:
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admission Enquiry Form</title>
+    <h1 align="center" style="color:rgb(243, 43, 7)">Admission Enquiry</h1>
+</head>
+<body>
+<form method="post">
 
+ <label for="name">Full Name</label>
+ <input type="text" name="name" placeholder="Enter your name" required>
+  <br><br>
+ <label for="email">Email</label>
+ <input type="email" name="email" placeholder="Enter your email" required>
+ <br><br>
+
+ <label for="phone">Phone Number</label>
+ <input type="tel" name="phone" placeholder="Enter your phone number" required>
+    <br><br>
+
+    <label for="course">Program of Interest</label>
+    <select name="course" required>
+        <option value="" disabled selected>Select a program</option>
+        <option value="Bachelors">B.E or B.Tech</option>
+        <option value="Masters">M.E</option>
+        <option value="Diploma">MBA</option>
+        <option value="Certificate">Lateral</option>
+        </select>
+        <br><br>
+        <button type="submit">Submit</button>
+        <button  type="reset">Reset</button>
+    
+</form>
+   
+    
+</body>
+</html>
+```
 ## Output:
 
 ## Result:
