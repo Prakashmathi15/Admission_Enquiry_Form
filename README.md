@@ -47,14 +47,14 @@ No CSS or JavaScript is to be included. Focus on structure and accessibility.
 <form method="post">
 
  <label for="name">Full Name</label>
- <input type="text" name="name" placeholder="Enter your name" required>
+ <input type="text" name="name" required>
   <br><br>
  <label for="email">Email</label>
- <input type="email" name="email" placeholder="Enter your email" required>
+ <input type="email" name="email" required>
  <br><br>
 
  <label for="phone">Phone Number</label>
- <input type="tel" name="phone" placeholder="Enter your phone number" required>
+ <input type="tel" name="phone"  required>
     <br><br>
 
     <label for="course">Program of Interest</label>
@@ -67,7 +67,7 @@ No CSS or JavaScript is to be included. Focus on structure and accessibility.
         </select>
         <br><br>
     <label for="message">Message</label>
-    <textarea name="message" rows="4" cols="50" placeholder="Enter your message" required></textarea>
+    <textarea name="message" rows="4" cols="50" required></textarea>
     <br><br>
         <button type="submit">Submit</button>
         <button  type="reset">Reset</button>
